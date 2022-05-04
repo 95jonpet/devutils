@@ -12,3 +12,14 @@
     <a href="https://github.com/95jonpet/devutils/issues">Request Feature</a>
   </p>
 </div>
+
+---
+
+## Implemented utilities
+
+All implemented utilities are described in the following table.
+
+| File               | Description                  |
+| :----------------- | :--------------------------- |
+| [meme.sh](meme.sh) | Print a somewhat funny meme. |
+| [todo.sh](todo.sh) | Manage todo items.           |
